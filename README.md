@@ -1,3 +1,3 @@
 # felix-design
 
-Vibes based gravity well generating heuristic and probabilistic correlations in data with explicitness
+Felix is a vibes-based gravity well that generates heuristic and probabilistic correlations in data with explicit uncertainty.
