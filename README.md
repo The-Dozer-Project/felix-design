@@ -1,2 +1,3 @@
 # felix-design
-felix design repo
+
+Vibes based gravity well generating heuristic and probabilistic correlations in data with explicitness
